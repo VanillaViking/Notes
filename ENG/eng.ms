@@ -57,6 +57,59 @@ How can you individually or collectively increase rational thinking?
 .LP
 genetic modification
  
+.PP
+.I "Oct 18"
+.SH
+What makes us Human With Jeremy Vine
 
+.LP
+.I "Alain de Botton:" 
+.IP \[bu] 2
+ need education
+.IP \[bu] 2
+ need to become more skilled
+.IP \[bu] 2
+ education makes you a good worker
+.IP \[bu] 2
+ real purpose is to make us human
+.IP \[bu] 2
+ education system leaves us unprepared for adult life
+.IP \[bu] 2
+ we are not taking mental wellbeing seriously 
+.IP \[bu] 2
+ we need to get more familiar of the idea of transferring wisdom 
+.IP \[bu] 2
+ education also teaches how to be a good partner, how to be sane, etc 
 
+.LP 
+.I "Billy Bragg"
+.IP \[bu] 2
+live in increasingly divided times
+.IP \[bu]
+there is a war on emphathy
+.IP \[bu]
+emphathy is the currency of music
+.IP \[bu]
+music can make you feel unalone
+.IP \[bu]
+impulse to protect one's own blood
+.IP \[bu]
+we see our better selves with empathy
+.IP \[bu]
+hostility towards our strangers undermines our humanity
+
+.B "Being human is knowing you are not alone"
+
+.LP
+.I "Neil Oliver"
+.IP \[bu]
+Awareness of time
+.IP \[bu]
+we are finite beings and we know it
+.IP \[bu]
+History starts with us
+.IP \[bu]
+time blesses us with responsibility
+.IP \[bu]
+it is up to us to decide what to do with the time we have
 
