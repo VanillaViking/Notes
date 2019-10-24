@@ -184,3 +184,6 @@ the teamis now operating as an affective productive unti. able to solve problems
 .I "The Belbin model"
  The main objective is to construct a team containing a balance of complimentary yet different behavioural and personality types.
 e-Interplace is a software application for automating much of the analysis required to use the model. It is able to produce a variety of reports that comment on individuals and also on the compatibility and dteailed characteristics of different eam combinations. In genreal a productive team should include members that include all nine team roles in roughly equal proportions.
+
+.SH
+Conflict Resolution

@@ -113,3 +113,12 @@ time blesses us with responsibility
 .IP \[bu]
 it is up to us to decide what to do with the time we have
 
+.PP
+.I "Oct 21"
+.SH
+\s+3Defining Human Experiences
+
+.LP
+.ps +2 
+1. The idea of experience being a process which is shaped by a series of emotional reactions and intellectual reflections which result in the attainment of knowledge. 
+2. 
