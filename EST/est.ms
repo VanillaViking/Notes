@@ -92,15 +92,15 @@ sigma = {L} over {A}
 .ps +2
 For both tensile and compressive stresses, it is always the area that is at right angles to the force. This is commonly called the  
 .B "Cross-sectional Area"
-{remember to insert a pic}
+.PSPIC csa.ps
 
 .LP
 .ps +2
 For shear stress, the aresa is always measured parallel to the applied force. This is know as the 
 .B "shear area"
-{remember pic!!!!!!!!!1}
+
 .EQ
-1 Pa ={1 N} over {{mm} sup {2}} 
+1 Pa ={1 N} over {{m} sup {2}} 
 .EN
 
 .LP
@@ -223,3 +223,214 @@ If the loading is placed at the joints of the truss, then the forces in the memb
 If the whole truss in in equilibrium, then each joint will also be in equilibrium.
 
 As all the forces act through the joint, the force system can be considered as a concurrent system. 
+
+.PP
+.I "Oct 28"
+.SH
+\s+3Benefits to seciety
+.IP \[bu] 2
+.ps +2
+Open up normally incassible areas
+.IP \[bu]
+.ps +2
+More economical travel 
+.IP \[bu]
+.ps +2
+Provide better defences
+.IP \[bu]
+.ps +2
+Open up areas to provide more speedy and relazed travel
+.IP \[bu]
+.ps +2
+Overpasses provide less congestion in twons and cities
+.IP \[bu]
+.ps +2
+More efficeint transport systems
+
+.SH
+\s+3Costs to society
+.LP
+.ps +2
+.IP \[bu] 2
+.ps +2
+Expose once remote communities to the undsirable aspects of civilised life 
+.IP \[bu]
+.ps +2
+communities that are bypassed by the building of new bridges may lose business, tourists, facilities
+.IP \[bu]
+.ps +2
+Toll bridges are an added financial burden to societies.
+.IP \[bu]
+.ps +2
+convenient venue for people contemplating suicide 
+.IP \[bu]
+.ps +2
+high initial cost of bridges are aand added burden on tax payers.
+
+.PP
+.ps +2
+.I "Oct 30"
+
+Voussoir are the parts of the arch bridge.
+
+.B "Wrought vs Cast iron"
+.IP \[bu] 2
+.ps +2
+Cast iron is formed by melting iron and pouring into a moult
+.IP \[bu]
+.ps +2
+Wrought iron is heated so that it can be hammered into shape
+.IP \[bu]
+.ps +2
+Cast iron is brittle, hard and non malleable
+.IP \[bu]
+.ps +2
+Wrought iron is composed of iron with 1-2% slag,
+.IP \[bu]
+.ps +2
+softer and more ductile and malleable
+.IP \[bu]
+.ps +2
+they are both susceptible to corrosion
+
+.PP
+.ps +2
+.I "Nov 04"
+
+
+.EQ
+700 times 1.8 = x times 3.3
+.EN
+.EQ
+1260 = 3.3x
+.EN
+.EQ
+{1260} over {3.3} = x
+.EN
+.EQ
+x = 381.82
+.EN
+
+.B "Right"
+
+.EQ
+R = 700 - 381.82
+.EN
+.EQ
+R = 381.18
+.EN
+
+.PP
+.ps +2
+.I "Nov 06"
+
+i)
+.EQ
+"-1500kN down"
+.EN
+.EQ
+"400kN up"
+.EN
+.EQ
+"-1100kN down"
+.EN
+.EQ
+1000 times 1 = -1000
+.EN
+.EQ
+400 times 2 = 800
+.EN
+.EQ
+500 times 4 = -2000
+.EN
+.EQ
+"total moment"
+=
+-2200
+.EN
+.EQ
+-2200 = "6R1"
+.EN
+.EQ
+"366.67 kN"
+.EN
+.EQ
+1100 - 366.67 = "733.33 kN"
+.EN
+
+.SH
+q 2
+
+.EQ
+"total moment" = 200 + 500 times 4 = 2200
+.EN
+.EQ
+2200 = "6Rl"
+.EN
+.EQ
+"Rl" = "366.67 kN"
+.EN
+.EQ
+1500 - 366.67 = 233
+.EN
+
+.SH
+q 3
+.EQ
+"total moment" = (400 times 2) + (100 times 4) + (400 times 8) = 4400
+.EN
+.EQ
+4400 = "6Rr"
+.EN
+.EQ
+"Rr" = 733.33
+.EN
+.EQ
+"Rl" = 900 - 733.33
+.EN
+.EQ
+"Rl" = 166.66
+.EN
+
+.SH
+\s+3Tipes of beam supports
+
+.LP
+.ps +2
+Fixed bearing will prevent motion in two perpendicular direction but permits rotation about its axis. 
+
+Unidirectional bearing: a roller or sliding bearing support has the reaction force always acting at 90 degrees to the surface. 
+
+.SH
+\s+3q1
+
+.EQ
+"turning moment" = 300 times 2 + 346.41 times 5
+.EN
+.EQ
+2332.05 = "8Rr"
+.EN
+.EQ
+{2332.05} over {8} = 291.50
+.EN
+.EQ
+"Rl" = 354.9
+.EN
+.EQ
+"400cos(60)" = 200
+.EN 
+.EQ
+sqrt{{354.9} sup {2} + {291.5} sup {2}}
+.EN
+.EQ
+"459.26 kN"
+.EN
+.EQ
+"tan(354.9/200)"
+.EN
+.EQ
+60.59 "degrees"
+.EN
+
+.PP 
+.I "Nov 07"

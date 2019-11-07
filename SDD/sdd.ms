@@ -85,10 +85,17 @@ A + (B + C) = A + B + C
 A(B * C) = A * B * C
 
 
+.PP
+.ps +2
+.I "Oct 29"
 
+A' + B + (BC)'
 
+A' + B + B' + C'
 
+A' + C' +1
 
+1
 
 
 

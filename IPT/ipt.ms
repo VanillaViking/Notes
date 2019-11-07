@@ -3,7 +3,7 @@
 .PP
 .I "Oct 14"
 .SH
-\s+5Project Management
+\s+5PROJECT MANAGEMENT
 .LP
 .ps +2
 Project management is a methodical and planned approach used to guide all the tasks and resources required to develop projects.
@@ -186,4 +186,196 @@ the teamis now operating as an affective productive unti. able to solve problems
 e-Interplace is a software application for automating much of the analysis required to use the model. It is able to produce a variety of reports that comment on individuals and also on the compatibility and dteailed characteristics of different eam combinations. In genreal a productive team should include members that include all nine team roles in roughly equal proportions.
 
 .SH
-Conflict Resolution
+\s+3Conflict Resolution
+.LP
+.ps +2
+Common areas where conflict occurs:
+.IP \[bu] 2
+.ps +2
+Allocating limited resources to development tasks
+.IP \[bu]
+.ps +2
+Different goals of team members.
+.IP \[bu]
+.ps +2
+Scheduling of tasks
+.IP \[bu]
+.ps +2
+Personal differences
+.IP \[bu]
+.ps +2
+work/life conflict
+.LP
+.ps +2
+
+To resolve conflict requires a decision that is accepted by each of the conflicting parties. The overriding airm of conflict resolution is for all parties to participate, understand and then accept the final outcome.
+
+.IP \[bu] 2
+.ps +2
+Attack the problem not the person. Understand people's point of view
+
+.IP \[bu]
+.ps +2
+Brainstroming where each person expresses ideas as they come to mind
+
+.IP \[bu]
+.ps +2
+Mediation involves the conflicting parties express their thoughts and ideas to a thrid party who is then able to steer the resolution process, ensuring it remains focused on the problem and its resolution
+
+.IP \[bu]
+.ps +2
+Group problem solving requires a setting where all involved are on an equal footing and are encouraged to contribute equally.
+.bp
+.SH
+\s+5MULTIMEDIA SYSTEMS
+
+.LP
+.ps +2
+Multimedia systems combine different tyeps of media into interactive information systems. It is teh integration of various media into a single presentation. Information is more effectively conveyed when different media are combined. Allows users to explore the content in any order and at their own pace due to interactive nature.
+
+Multimedia systems are used to educate, train entertain or enchance the provision of information.
+
+.SH
+\s+3Characteristics of Media Types
+
+.LP
+.ps +2
+.BI "Text and Numbers"
+ In many systems most of the information is presented as text and the images, sound, video etc are used to reinforce the textual information.
+The two most commonly used methods for digitally representing text are systems based on ASCII and EBCDIC. Standard ASCII represents the enlish language characters using decimal numbers in the range 0 to 127. Unicode systems extend the ASCII character set to include characters from other languages as well as various other special characters.
+
+The number media type is used to represent integers, decimals, currency, Boolean and dates/times. Unlike any other media type, numbers have magnitude 
+.I "eg 10 > 1"
+
+Both text and numbers are displayed as images using fonts.
+ Outline fonst such as TrueType describe characters using mathematical descriptions of the lines and curves within each character. (with  bezier curves)
+ Raster fonts store a bitmap of each character
+Storke fonts use 
+
+Run Length Encoding (RLE) looks for repeating patterns within the binary data. Rather thatn including the same bit patterns multiple times the patter is inculded once together with the number of times it occurs 
+
+Huffman compression looks for the most commonly occurrinng bit patterns within the data and replaces these with shorter symbols. 
+
+.BI "Hyperlinks"
+.LP
+.ps +2
+Hypertext is a term used to describe bodies of text that are linked in a non-sequential manner.
+The user clicks on a hyperlink and is taken to some related content. This new content may also contain hyperlinks to further content. This organistaion alows users to freely explore areas of interest with ease.
+.IP \[bu] 2
+.ps +2
+all HTML documents are stored as text file.
+.IP \[bu]
+.ps +2
+Pairs of tages are used to specify hyperlinks and other instructions. 
+.IP \[bu]
+.ps +2
+Tags are tehmselves strings of text, they have no meaning until they are analysed and acted upon by software such as web browsores
+.IP \[bu]
+.ps +2
+In HTML, tags are specified using angled brackets.
+.IP \[bu]
+.ps +2
+Web browsers etc understand the meaning of each HTML tag
+
+.PP
+.ps +2
+.I "Nov 03"
+
+.BI "Audio"
+
+used to represent sounds. Sounds are transmitted throgh the air as compression waves. Our ear is able to detect thes waves and our brain transforms then into what we recongnise as sound. File formats include mp3, wav, wma 
+
+All waves have two essential components: frequency and amplitude. Frequency is  the number of times per second that a complete wavelength occurs. (measured in hertz)
+
+Amplitude determines the volume or level of the sound (measured in decibels).
+
+there are two ways to represent sound in binary.
+.IP \[bu] 2
+.ps +2
+sample the sound at precise intervals of time
+.IP \[bu]
+.ps +2
+describe the sound in terms of the properties of each individual note.
+
+.I "Sampled Audio"
+the instantaneous amplitude of the signal is recorded at precise time intervals. This results in a large number of points that can be joined to approximate the shape of the original sound wave. the two parameters that affect the accuracy and quality of audio samples are the number of sampes per second and the number of bits used to represend each of these samples. 
+
+stereo music stored on compact disks contains 44100 samples per second for both left and right channels and each sample is 16 bits long
+
+.EQ
+300 times 44100 times 16 times 2
+.EN
+.ps +2
+
+The Moving Picture Expert Group (MPEG) sets standards for compression of both video and audio. 
+
+mp3 (MPEG audio layer 3) files contain compressed sampled audio such that file sizes are reduced by a factor between 10 and 14, therefore a 50MB file from a CD will compress to an mp3 file of less than 5MB. is lossy compression. uses complex techniques based on the perceived sound heard by the human ear. the resulting file is then compressed further using lossless compression.
+
+.I "Individual Notes"
+
+The vertical position of each note on a music score determines its pitch and the symbol used determiunes its duration.Notes vertically above and below each otherare played together. Time is indicated horizontally from left to right.
+
+In binary each note is represented in terms of its pitch and duration. Particular instruments can be specified to play each series of notes. Most common storage format is MIDI (Musical Instruments Digital Interface)
+
+.BI "Images"
+
+used to represent data that will be displayed as visual information. All inforemation displayed on monitors and printed as hardcopy is ultimately represented as images. text and numbers are organised into image data only in preperation for display. There are two different techniques for representig images: bitmap and vector.
+
+.I "Bitmap"
+
+file formats: JPEG, GIF, PNG, BMP
+
+Bitmap images represent each elemnt or dot in the picture separately. These dots or pixles can each b ea different colour and each colour is represennted as a binary number. Most colour images can have up to 16 million different colours, where each pixel is represented using 24 bits.
+
+.I "Vector"
+
+file formats: SVG, WMF, EMF
+
+Vector images represent each portion of the image mathematica,ly, much like outline fonts. The stored data used to generate the image is mathematical description of each shape that makes up the final image.
+
+SVG fiels are actually text fields, but has xml
+
+
+.PP
+.ps +2
+.I "Nov 07"
+
+MIME: multipurpose internet mail extensions
+
+takes all the pixels and tunrs into characters, which can be represented in binary as a bunch of characters
+
+mail stuff
+.IP \[bu] 2
+.ps +2
+SMTP
+.IP \[bu]
+.ps +2
+POP
+.IP \[bu]
+.ps +2
+IMAP
+
+quantizing: discrete digital assignment of a value
+
+YCbCr: Y is the brightness component, Cb is chrominance blue and CR chrominance red. Each pixel is converted using the following formulas.
+
+dont want to lose information from Y channel, but can afford to lose in Cb and Cr
+JPEGs use this
+
+bezier curve: curve using mathematical formulas
+
+Distorting an image changes teh image from its natural shape. includes twisting, stretching etc of all of the image. warping is commonly used when the distortion alters parts of an image rather than teh entire image.
+
+.B "Animation"
+
+animation is achieved by displaying a sequence of imgages known as cels or frames one after the other. commercial feature films display 24 fps.
+
+each image was drawn on a sheet of clear celluloid material. The clear celluloid allowd a single background image to be reused by overlaying each cellin tern known as "onion skinning"
+
+tweening: key frames are drawn by the main animator and in between cels were drawn by les experienced animators.
+
+Animations are often produced using a combination of cel-based and path-based approaches.
+
+Path based animation is used to cause a character to follwo a path or line across the background. characters using path based techniques can themselvs be small cel-based techniques.
+
+
