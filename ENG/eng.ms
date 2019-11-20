@@ -356,4 +356,213 @@ False lies such as "fearless protector"
 
 "But if thought corrupts language, language corrupts thought"
 
-Thought is, in today's world the only thing left that is truly private and concealed within us. While thought in itself is not influenced by language, the act of communicating thoughts to others is. However it might also be that people think thoughts in language, allowing it to be manipulated by what language people speak. This could mean that there might be a language that is perfectly engineered to allow people to express thoughts in the most efficient way possible. If language influenced thought, could there be a way to express human senses simply through thought?
+Thought is, in today's world the only thing left that is truly private and concealed within us. While thought in itself is not influenced by language, the act of communicating thoughts to others is. However it might also be that people think in language, allowing it to be manipulated by what language people speak. This could mean that is is possible to generate a language that is perfectly engineered to allow people to express thoughts in the most efficient way possible. If language influenced thought, could there be a way to express human senses simply through thought? With any current language, it is impossible to express human senses to a person who has not experienced them in their life. This is because language tends to be based on experience. You need to understand the verbs in order to understand the sentence, and the verbs need to be experienced, either directly or in terms of other verbs in order to be understood.
+
+.PP
+.ps +2
+.I "Nov 11"
+
+writers relate each of their paragrpaphs to a certain topic or idea.
+
+
+3.
+.IP \[bu] 2
+.ps +2
+Bingley: sure of being liked: never met with pleasanter or prettier girls
+.IP \[bu]
+.ps +2
+Darcy: continually giving offence: collection of people little beauty or fasion
+.IP \[bu]
+.ps +2
+Their views on Ms Bennet
+
+.B "Syme had vanished"
+.IP \[bu]
+.ps +2
+nobody mentioned him
+.IP \[bu]
+.ps +2
+his name vanished from the Chess comittee
+
+.B "The weather was baking hot"
+.IP \[bu]
+.ps +2
+
+.IP \[bu]
+.ps +2
+air conditioning
+
+.B "Hate Song"
+.IP \[bu]
+.ps +2
+Endlessly plugged on telescreens
+.IP \[bu]
+.ps +2
+Parson's children played it
+
+.PP
+.ps +2
+.I "Nov 14"
+
+Orwell was trying to give a picture if a free country turned to totalitarianism
+
+government had to go to incredible lenghts to get into Winston's head
+
+.B "Characteristics of the owrld in 1984"
+.IP \[bu] 2
+.ps +2
+24/7 survellance
+.IP \[bu]
+.ps +2
+Censorship
+.IP \[bu]
+.ps +2
+Propaganda
+.IP \[bu]
+.ps +2
+Conformity
+.IP \[bu]
+.ps +2
+Institution
+.IP \[bu]
+.ps +2
+Strict hierarchy
+.IP \[bu]
+.ps +2
+oppression
+.IP \[bu]
+.ps +2
+Worship Big Brother
+.IP \[bu]
+.ps +2
+Violence is encouraged
+.IP \[bu]
+.ps +2
+War
+.IP \[bu]
+.ps +2
+Rations
+.IP \[bu]
+.ps +2
+Bland food/diet
+
+
+
+.B "Experiences that Winston has"
+
+.IP \[bu]
+.ps +2
+Fear
+.IP \[bu]
+.ps +2
+Loneliness
+.IP \[bu]
+.ps +2
+Curiosity
+.IP \[bu]
+.ps +2
+Lost
+.IP \[bu]
+.ps +2
+Confused
+.IP \[bu]
+.ps +2
+Uncertain
+.IP \[bu]
+.ps +2
+Risk taking, rebellion
+.IP \[bu]
+.ps +2
+Boredom
+.IP \[bu]
+.ps +2
+Desperate
+.IP \[bu]
+.ps +2
+Illness
+.IP \[bu]
+.ps +2
+Obedience
+.IP \[bu]
+.ps +2
+Voiceless
+.IP \[bu]
+.ps +2
+Hopeless
+.IP \[bu]
+.ps +2
+Apathy
+.IP \[bu]
+.ps +2
+Isolation
+.IP \[bu]
+.ps +2
+Distrust
+
+
+.B "Human Experiences"
+.IP \[bu]
+.ps +2
+Freedom
+.IP \[bu]
+.ps +2
+Autonomy
+.IP \[bu]
+.ps +2
+knowledge
+.IP \[bu]
+.ps +2
+Truth
+.IP \[bu]
+.ps +2
+History
+.IP \[bu]
+.ps +2
+Identity
+.IP \[bu]
+.ps +2
+Memory
+.IP \[bu]
+.ps +2
+Relationships
+.IP \[bu]
+.ps +2
+Intimacy
+.IP \[bu]
+.ps +2
+Privacy
+.IP \[bu]
+.ps +2
+Desire
+.IP \[bu]
+.ps +2
+Loss
+.IP \[bu]
+.ps +2
+Love
+.IP \[bu]
+.ps +2
+Lust
+.IP \[bu]
+.ps +2
+Solitude
+.IP \[bu]
+.ps +2
+Acceptance
+.IP \[bu]
+.ps +2
+Acceptance
+.IP \[bu]
+.ps +2
+Connection
+.IP \[bu]
+.ps +2
+Belonging
+
+"Nothing except the few cubic centimeters inside your skull"
+Shows desire for privacy 
+ 
+
+
+
+

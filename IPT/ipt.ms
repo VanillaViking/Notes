@@ -378,4 +378,76 @@ Animations are often produced using a combination of cel-based and path-based ap
 
 Path based animation is used to cause a character to follwo a path or line across the background. characters using path based techniques can themselvs be small cel-based techniques.
 
+.PP
+.ps +2
+.I "Nov 11"
 
+SWF files organise data by arranging it into definition tags, conntrol tags and actions. an SWF file is a sequence of such tags and actions. Control tags are used to place instances of these characters on a display list held in memory
+Tags:  
+
+A morph progressively and smoothly transforms one image into antoher different image.
+
+size of video:
+size of image * fps * duration
+
+.B "Block based video compression"
+.IP \[bu] 2 
+.ps +2
+current frame is split int series of blocks
+.IP \[bu]
+.ps +2
+the content of each block is then compared iwht the same block in a past frame
+.IP \[bu]
+.ps +2
+if block in the past frame is determined to be a close match then presumable no motion has taken place iin that area of the frame
+.IP \[bu]
+.ps +2
+should blocks not match,
+.IP \[bu]
+.ps +2
+if no match is found within the search area then the blockin the current frame must be stored as a bitmap
+
+.PP
+.ps +2
+.I "Nov 19"
+
+.SH
+\s+3Relationship with Hardware
+.LP
+.ps +2
+
+.B "CRT"
+
+electron gun shot at phosphors which get excited and glow. the electron guns 
+
+LCD displays use more power compared to CRTs or LEDs
+
+.B "TFT"
+
+Thin Film Transistors are a two dimensional grid of connections supplies intersection of a particular column and row. the transister activeates a transpared electrode, which causes electrical current to pass through the liquid crystals.
+
+.B "Plasma Screens"
+
+A plasme is a state of matter known as an ionised. composed of a two dimensional grid of cells sandwiched between sheets of glass.  
+
+.SH
+\s+3
+Projectors
+.LP
+.ps +2
+.B "LCOS"
+
+essentially a traditional CLD where the transistors contronlling each pixel are embedded iwthin a silicon ship under neath the lCD.
+
+.B "DMD"
+
+composed of minute mirros where each mirror measures just 4 micrometres. Each mirror physically tilts to either relfect light towards the focusing lends or away from the focusing lens. Each mirror is mounted on its own hinge and is controlled by its own pair of electrodes.
+
+.B "GLV"
+
+MEM: micro electric mechanical
+
+GLV element consists of six parallel ribbons coated with a reflective top layer. Every second ribbon is an electrical conductor and the surgace below the ribbon acs as the common electrode
+GLV element consists of six parallel ribbons coated with a reflective top layer. Every second ribbon is an electrical conductor and the surgace below the ribbon acs as the common electrode.
+
+They have superior respnse speed. FLV projectors use a sinlge linear array or row of GLVv rather than a 2 dimensional array.  aThe red green and blur strips are combined using a light multiplexer. A rotating mirror directs each stip of light to its precise location on the screen.

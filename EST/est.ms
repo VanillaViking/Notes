@@ -423,7 +423,7 @@ Unidirectional bearing: a roller or sliding bearing support has the reaction for
 sqrt{{354.9} sup {2} + {291.5} sup {2}}
 .EN
 .EQ
-"459.26 kN"
+"407.26 kN"
 .EN
 .EQ
 "tan(354.9/200)"
@@ -434,3 +434,113 @@ sqrt{{354.9} sup {2} + {291.5} sup {2}}
 
 .PP 
 .I "Nov 07"
+
+.EQ
+"11Rr" = (2 times 500) + (1000sin 30) + (4500sin 60)
+.EN
+.EQ
+"11Rr" = 1000 + 500 + 3897.11
+.EN
+.EQ
+"Rr" ={5397.11} over {11} 
+.EN
+.EQ
+"Rr" = 490.64 kN
+.EN
+.EQ
+"Rl" = "Total reaction force (y)" - "Rr"
+.EN
+.EQ
+"Rl(y)" = 500 + 100 + 433.01
+.EN
+.EQ
+"Rl(y)" = 1033.01 - 490.64
+.EN
+.EQ
+"Rl(y)" = 542.37 kN
+.EN
+.EQ
+"Rl(x)" = 200cos30 + 500cos60
+.EN
+.EQ
+"Rl(x)" = 423.21 kN
+.EN
+.EQ
+Rl = sqrt {{423.21} sup {2} +{542.37} sup {2}}
+.EN
+.EQ
+Rl = 687.94 kN
+.EN
+.EQ
+"direction of force" = tan {{542.37} over {423.21}}
+.EN
+.EQ
+52.03 degrees
+.EN
+
+.PP
+for finding truss thingy look at student workbook 2014 OCR v2
+
+.PP
+.ps +2
+.I "Nov 12"
+
+.B "i) a" 
+.EQ
+"2Rl" = (0.5 times 2000) + (1.5 times 928)
+.EN
+.EQ
+2Rl = 2392
+.EN
+.EQ
+Rl = 1196
+.EN
+.EQ
+2000 + 928 - Rl = Rr
+.EN
+.EQ
+1732
+.EN
+
+.PP
+.ps +2
+.I "Nov 18"
+.SH
+\s+3Shear Force
+
+.LP
+.ps +2 
+A shear force is applied parallel or tangential to a face of a material as opposed ot a normal force wwhich is applied perpendicularly.
+
+Causes one part of a material to slide past the adjecent part of the material
+
+.PP
+.ps +2
+.I "Nov 20"
+
+A uniforml distributed load is a load which is evenly spread over a structural member so that each until lenght is loaded wqually.
+
+.B "Bending stress"
+
+Beinding in beams produces three internal reactive forces in the beam which attempt to resist the bedning or flexing of the beam
+.IP \[bu] 2
+.ps +2
+compressive along the top
+.IP \[bu]
+.ps +2
+tensile along the bottom
+.IP \[bu]
+.ps +2
+shear vertically and horizontally
+
+To calculate the bending stress:
+.EQ
+sigma ={My} over {I} 
+.EN
+.ps +2
+
+ M = bending moment at the cross section being considered
+ y = distance of the fibre from the neutral azis
+ I = second moment of area of the cross section
+
+
