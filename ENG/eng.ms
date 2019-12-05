@@ -344,12 +344,43 @@ Oceania's population is divided into three classes; The Inner Party, Outer Party
 
 Analysis 38
 
+1. 
+a) bleating, standing, screaming, shouting, swelling
+
+b) To create tension, immerses the user, creating energy and frenzy
+
+2. to a landed fish
+
+b) sitting straight, chest quivering
+
+3. a) flushed
+
+b) he seems more in control
+
+4.
+a) makes him seem ominous
+
+5. its an event
+
+6. 
+a) oxymoron; can't get enough of it.
+
+b) vindictive: wanting revenge.
+
+7.
+a) each statement gets worse and worse 
+
+b) screaming lunatic, smashing faces with sledgehammer
+
+8.
+
+
 9.
 b) Winston's inconsistent feelings toward Goldstein shows that unlike most others, he was not easily manipulated by the party. This is shown in "sole gaurdian of truth and sanity in a world of lies.", suggesting that Winston was capable of doubting the Party's claims unlike most of the population who were easily manipulated by the party.
 
 c) In context, the usage of "mere"suggests that Goldstein could wreck civilization simply with his voice. The hyperbole magnifies the hatred that Winston portrayed towards Goldstein.
 
-10. "adoration" and "loathing" fall on the opposite ends of the spectrun in their meanings. This amplifies the conflicting feelings that Winston experiences towards big brother
+10. "adoration" and "loathing" fall on the opposite ends of the spectrun in their meanings. This amplifies the conflicting feelings that Winston experiences towards big brother Winston's doublethink
 
 11. the high modality is a common strategy used in propaganda to manipulate the viewer with emotive language etc.
 False lies such as "fearless protector"
@@ -559,9 +590,97 @@ Connection
 .ps +2
 Belonging
 
+.PP
+.ps +2
+
 "Nothing except the few cubic centimeters inside your skull"
-Shows desire for privacy 
- 
+
+Story about an AI government party and how they improved quality compared to previous government
+
+William shoved his phone to the side, exasperated. "It would never happen" he thought to himself. "No one would want to be ruled by a party that is not human." The low din of the office gave off a busy aura. It seemed as though everyone was neither excited nor bored, simply occupied. His phone screen stayed on. It read about an article criticizing GNU, the organisation he worked for.
+
+
+.LP
+.B "GNU does not belong in the elections. The artificial buffalo"
+
+.ps +2
+
+.PP
+.ps +2
+.I "Nov 22"
+.SH
+\s+3Who do you think you are
+.LP
+.ps +2
+
+They all have different families and ancesotrs but the all collectively want to know where they came from.
+
+Collective experience of the Australian.
+
+unscripted
+
+music of discovery
+
+reveals insights about the history of the nation
+
+feel responsibility of our forebearers
+
+needing to understand their behaviour
+
+closest you get to time travel.
+
+shift of perspective on grandfather
+
+even though i knew it i did not know it.
+
+surprised at how quickly i cared about them
+
+healing
+
+.B "Things that the show Affirmed"
+.IP \[bu]
+.ps +2
+Affirms that passed experiences can be relived through information 
+.IP \[bu]
+.ps +2
+a
+
+.LP
+.ps +2
+.B "Things that the show Challenged"
+
+.IP \[bu]
+.ps +2
+Seems to show that some emotional connections can possibly be genetic
+.IP \[bu]
+.ps +2
+challenges our views on our ancestors
+
+.LP
+.ps +2
+.B "Things that were fresh"
+.IP \[bu]
+.ps +2
+drawing power from the past
+
+.LP
+.ps +2
+
+1.
+The person who's grandfather's last though was about him. It gives a sense of guilt that he never got to meet him or get to know him..
+
+2. 
+It seems to be because of their close link with the human senses, which stay constant throught humanity's history. Therefore hearing or seeing something relevant to your ancestors can allow you to relive their experiences
+
+Mother,
+
+I hope you are goodwise. I am doubleplusgood here. Today was the Two Minutes Hate. All the mans stood up when the bell ringed.
+
+
+.PP
+.ps +2
+.I "Nov 28"
+
 
 
 

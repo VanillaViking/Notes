@@ -160,12 +160,14 @@ is the maximum stress a material can withstand before it fails but not necessari
 .B "Young's modulus"
 is a measure of the stiffness of the material. this is shown on a stress-strain diagram by the slope of the straight-line section up to the proportional limit. it is calculated by dividing stress by the strain.
 .EQ
-{epsilon} over {sigma}
+{sigma} over {epsilon}
 .EN
 .LP
 .ps +2
 .B "Toughness"
 can also be determined. It is represented by the area under the graph, from the intial point to the point of fracture(where the graph ends). Toughness is the ability of material to absorb energy when being deformed.
+
+all metals have a straight line in their graph
 
 .SH
 \s+3Truss analysis
@@ -542,5 +544,214 @@ sigma ={My} over {I}
  M = bending moment at the cross section being considered
  y = distance of the fibre from the neutral azis
  I = second moment of area of the cross section
+
+.PP
+.ps +2
+.I "Nov 25"
+
+.B "HW"
+
+(i) the largest dimension in cross-section is vertical so that there is maximum possible distance between neutral axis and edge
+
+(ii) 
+
+(iii) 
+
+.EQ
+3Rl = 2 times 2
+.EN
+.EQ
+Rl ={4} over {3}  
+.EN
+.EQ
+Rr ={2} over {3} 
+.EN
+
+.PSPIC "q3.ps" 2.6
+
+.EQ
+"Max Bending" ={4} over {3} KNm
+.EN
+.EQ
+M = {4} over {3} KNm = 1333.3 Nm
+.EN
+.EQ
+y ={200} over {2} = 100 mm
+.EN
+.EQ
+I = 33 times{10} sup {-6}  
+.EN
+.EQ
+sigma ={My} over {I} 
+.EN
+.EQ
+{1333.3 times 100} over {33 times{10} sup {-6}}
+.EN
+.EQ
+sigma = 4040303030 Pa
+.EN
+.EQ
+sigma = 4040 MPa
+.EN
+.B "laying flat:"
+
+.EQ
+y ={50} over {2} = 25
+.EN
+.EQ
+I = 2.08 times{10} sup {-6} 
+.EN
+.EQ
+sigma ={My} over {I} 
+.EN
+.EQ
+sigma ={1333.3 times 25} over {2.08 times{10} sup {-6} } 
+.EN
+.EQ
+sigma = 16000 MPa
+.EN
+
+(iv) 
+.EQ
+sigma ={My} over {I} 
+.EN
+.EQ
+sigma ={10000 times 96} over {102 times {10} sup {-6}} 
+.EN
+.EQ
+sigma = 15098 MPa
+.EN
+
+
+vi) more distance away from neutral axis
+
+.PP
+.ps +2
+.I "Nov 26"
+
+.SH
+\s+3Crack Detection tests
+
+.LP
+.ps +2
+
+.B "Dry penetrant inspection"
+
+The part to be tested is eaither dipped into or sprayed with a dye which has a low surface tension so that is can penetrate surface flaws.
+
+.B "Flourescent inspection"
+
+The part is dippe into or sprayed wita flourescent liquid then wiped and dired. The part is then viewed undr ultra violet light which shows the residue of the flourescent liquid in any crakcs
+
+.B "Magntetic particle & Eddy current"
+
+For magnetic particle testing, fine magnetic particles are applied to the surface of the part to b tested. The part is magnetised and surface and shallow flaws become visible due to the stray magnetic field around the flaw
+
+Eddy current testing detects a variation in an induced electromagnetic field in the part caused by surface and shallow flaws. This is a rapid test 
+
+.B "Ultrasonic testing"
+
+Ultrasonic vibrations can readily pass through solids provided the amterial is homogeneous. Flaws or cracks relfect a portion of the transmitted beam thus reducing the intensity of the pulse at the receiving transducer. This shows on a cathode reay oscilloscope as a lower peak. 
+
+Ultrasonic testing is often performed on steel and other metals and alloys, oncrete, wood and composite.
+
+.PSPIC ult.ps 2.5
+
+.B "Radiography"
+
+radiography is a very reliable and convenienct method of flaw detection in all materials.
+
+.PSPIC rad.ps 1.3
+
+.PP
+.I "Nov 4"
+.B "Concrete testing"
+
+the slump test is a test theat is used to give a measure of workability.
+
+.SH
+\s+3Ceramics
+
+ceramics are good in compression
+
+in the form of bricks, glass, floor glass
+
+Ceramics can be defined as materials containinng phases that are compounds of metals and non metals.
+
+the bbonds between the atoms are ionic and//or coalent.
+.IP \[bu] 2
+.ps +2
+provide ceramics with high melting points
+.IP \[bu]
+.ps +2
+hard and brittle- good resistance to weathering and chemical attack 
+
+.B "Natural"
+
+rocks, minerals, ores an
+
+.I "Igneous rocks"
+
+form when molten volcanic material solidifies. rapidly cooling to produce fine grained rock. basalt is commonly crushed and used as aggregate in the manufacture of conrete 
+
+granite forms when magma solidifies before reching the surface. facing on the piers and pylons of the Sydney Harbour Bridge was ade from eighteen thousand cubic metres of granite quarried near Moruya on the south coast of NSW.
+
+weather wehn sexposed to teh atmoshpere and moisture.
+
+.B "Sedimentary rocks"
+
+form when particles of weatrher rock are deoposited in layers on sea or lake beds and consolidate under pressure from the weight of successive layers.
+
+portland cement
+
+sandsonewas used extensively in early NSW. Stone for the oldest bridge on mainland Australia, the Lennox Bridge.
+
+Many earlsy community buildings and monuments were also constructed from sedimentray
+
+.B "Metamorphic rocks"
+
+if igneous or sedimentary rocks are subjected to intense hear and or pressure their properties change.
+
+Slate from shale
+
+Marble from limestone
+
+Slate has bee used for roofing an damp courses and is often used today as a flooring material.
+
+.B "Silicates"
+
+form a large group of ceramic materials. The silica tetrahedron contains a silicon atom surrounded by four oxygen atoms. The 
+
+Orthosilicates are formed when towo metal atoms donate two electrons each and an ionic bond formed
+
+Pyrosilicates are formed when oxygen atoms share electron pairs with two silicon atoms forming a covalend bond.
+
+Asbestos is an example of an amphibole and exhibits good tensile strength along the fibres. were sued to reinforce cement sheeeting. lack of strong bonds in three dimensions allows the fibre to split into needles.
+
+.I "Chain structures"
+
+
+
+
+.B "Framework structures"
+
+framework structures are formed when each oxygen is shared by two tetrahedra linking adjacent units into a three dimensional framework.
+
+feldspar
+
+
+flux is a cleaning agent
+
+Clays typiclaly have extremely small plate like particles.
+
+The water within teh clay mineral is part of the structure
+
+when the water added is sufficient to just form a film around the sheet crystals, through secondary bonding, the clay becomes plastic but sill sufficient strength to support its own weight after forming
+
+pure ckay is rarely used and normally a clay body is made by combinding clay with non plastics such as crushed quartz. 
+
+Porcelain is much finer than stoneware and is dnse, hard, with excellent chemical resistance. used for electrical insulators, sanitary wware.
+
+glazed to reduce porosity
 
 

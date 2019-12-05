@@ -451,3 +451,19 @@ GLV element consists of six parallel ribbons coated with a reflective top layer.
 GLV element consists of six parallel ribbons coated with a reflective top layer. Every second ribbon is an electrical conductor and the surgace below the ribbon acs as the common electrode.
 
 They have superior respnse speed. FLV projectors use a sinlge linear array or row of GLVv rather than a 2 dimensional array.  aThe red green and blur strips are combined using a light multiplexer. A rotating mirror directs each stip of light to its precise location on the screen.
+
+.PP
+.ps +2
+.I "Nov 21"
+
+dynamic mic has its diaphragm attached to a coil of wire as the diaphragm vibrates so too does the coil of wire.
+
+the analog sinal is fed to an analog to digital converter. the output from ADC is then fed into the digital signal processor DSP. the DSPs taks is to filter and compress the sound samples in an attempt to better represent the original sound waves in a more efficient form.
+
+DSP compresses the sampels to reduce their size. 
+
+ADCs repeatedly sample the magnitude of the incoming electrical current and convert these samples to binary digitabl numbers
+
+.PP
+.ps +2
+.I "Nov 25"
