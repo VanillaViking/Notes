@@ -177,7 +177,7 @@ Team members now recognise their differences. team start wto work together. Pers
 .IP \[bu]
 .ps +2
 .B "Performing:"
-the teamis now operating as an affective productive unti. able to solve problems easily and even prevent problems arising in the first place. largely regulate and manage themselves.
+the team is now operating as an affective productive unit. able to solve problems easily and even prevent problems arising in the first place. largely regulate and manage themselves.
 
 .LP
 .ps +2
@@ -225,6 +225,57 @@ Mediation involves the conflicting parties express their thoughts and ideas to a
 .IP \[bu]
 .ps +2
 Group problem solving requires a setting where all involved are on an equal footing and are encouraged to contribute equally.
+
+.SH
+\s+3 Project Management Tools
+.LP
+.ps +2
+Used to document and communicate:
+
+.IP \[bu] 2
+.ps +2
+what each task is
+.IP \[bu]
+.ps +2
+who completes each task
+.IP \[bu]
+.ps +2
+when each is to be completed
+.IP \[bu]
+.ps +2
+how much time is available 
+.IP \[bu]
+.ps +2
+how much money is available
+
+.B "Gantt charts"
+
+horizontal bar chart that is used to graphically schedule and track idividual tasks within a project. Horixontal bars of varying lengths show the sequence, timing and length of each task.
+
+.B "Journals & Diaries"
+
+tools for recording the day to day progress and detail of completed tasks.
+.LP
+.ps +2
+Diaries are an organisatiional tool and a memory aid. roject manager records when meetings will occur and team members record appointments that will take them our of the office.
+
+.B "Funding management plan"
+
+aims to ensure the project is developed within budget. requires that each development task be allocated sufficient funds at the correct time and are spent wisely. Funding managemnet plans shoud specify:
+.IP \[bu] 2
+.ps +2
+how funds will be allocated (will funds be released before task, progressively, or after?)
+.IP \[bu]
+.ps +2
+
+.IP \[bu]
+.ps +2
+<?>
+.IP \[bu]
+.ps +2
+<?>
+
+
 .bp
 .SH
 \s+5MULTIMEDIA SYSTEMS
