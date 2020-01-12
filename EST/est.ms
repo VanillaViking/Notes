@@ -1,5 +1,3 @@
-.TL
-\s+5Engineering Notes
 .PP
 .I "Oct 14"
 .SH
@@ -748,10 +746,63 @@ The water within teh clay mineral is part of the structure
 
 when the water added is sufficient to just form a film around the sheet crystals, through secondary bonding, the clay becomes plastic but sill sufficient strength to support its own weight after forming
 
-pure ckay is rarely used and normally a clay body is made by combinding clay with non plastics such as crushed quartz. 
+pure clay is rarely used and normally a clay body is made by combinding clay with non plastics such as crushed quartz. 
 
 Porcelain is much finer than stoneware and is dnse, hard, with excellent chemical resistance. used for electrical insulators, sanitary wware.
 
 glazed to reduce porosity
 
+.PP
+.ps +2
+.I "Dec 10"
+
+.SH
+\s+3Crystalline Ceramics
+
+.LP
+.ps +2
+
+Plastic deformaiton of crystalline materials occurs when adjecnt parts of a crystal slid over each other. 
+
+.IP \[bu] 2
+.ps +2
+Significant size differences between the atoms or ions combned to form ceramics. slip is mechaniclaly restricted because of the unevensurfaces along the slip planes.
+.IP \[bu]
+.ps +2
+Ionic bonds in some ceramics which restrics slip if similarly chraged particlesare forced together
+.IP \[bu]
+.ps +2
+low symmetry of ceramic crystals which reduces the number of planes along which slip could occur.
+
+.SH
+\s+3hydraulic cements
+
+.LP
+.ps +2
+ 
+.B "Hydraulic cements"
+
+include portland cement and Pozzolanas
+
+.B "Portland cement"
+
+.SH
+\s+3Composite Materials
+
+.LP
+.ps +2
+
+A compositematerial consists of two or more materials joined to give a combination of properties that could not be obtained from any one of teh materials.
+
+.B "Particulate composites"
+
+made up of particles which have been joined together to produce unusual combinations of properties rather than to improve strength 
+
+.B "Laminar composites"
+
+means that the parts are physically joined face-to-face not edge-to-edge. 
+
+.B "fibre composites"
+
+In fibre composited, the properties of a base material, or matrix, are imporved by incorporating strong, stiff or brittle fibres into the structure.
 

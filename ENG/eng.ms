@@ -679,9 +679,34 @@ I hope you are goodwise. I am doubleplusgood here. Today was the Two Minutes Hat
 
 .PP
 .ps +2
-.I "Nov 28"
+.I "Dec 09"
 
+.B "How has your uderstanding of the complexities of human behaviour been shaped by Orwell's use of setting?"
 
+paradox in human behaviour
+
+list of settings:
+
+Oceania - totalitarian world (things that maintain the setting)
+
+Charringtop Shop
+
+Appartment in Victory mansion 
+
+O'brien's house
+
+Room 101
+
+Two minutes Hate
+
+Ministry of Truth
+
+love & hate - complex behaviour
+
+.B "student essay"
+
+.PP
+.I "Dec 13"
 
 
 
