@@ -806,3 +806,96 @@ means that the parts are physically joined face-to-face not edge-to-edge.
 
 In fibre composited, the properties of a base material, or matrix, are imporved by incorporating strong, stiff or brittle fibres into the structure.
 
+.bp
+
+.SH
+\s+5PUBLIC TRANSPORT
+
+.LP
+.ps +2
+Public transport is transport that is shared between many usres. 
+
+.B "Advantages"
+
+.IP \[bu] 2
+.ps +2
+You only pay when you use it
+.IP \[bu]
+.ps +2
+Cost of fares reduced 
+.IP \[bu]
+.ps +2
+No training or licence required
+.IP \[bu]
+.ps +2
+Can be used young, old, disabled
+.IP \[bu]
+.ps +2
+Less chance of accident
+.IP \[bu]
+.ps +2
+Driver is responsible for sped limits
+.IP \[bu]
+.ps +2
+Less air pollution
+.IP \[bu]
+.ps +2
+Parking/garaging non issue
+
+.B "Disadvantages"
+
+.IP \[bu] 2
+.ps +2
+Little control over the route taken
+.IP \[bu]
+.ps +2
+Not available in all areas
+.IP \[bu]
+.ps +2
+Waiting time
+.IP \[bu]
+.ps +2
+Taxpayers money 
+.IP \[bu]
+.ps +2
+Very hih initial capital costs
+.IP \[bu]
+.ps +2
+Personal security and comfort not high
+
+.SH
+\s+3Bicycle
+
+.LP
+.ps +2
+The bicycle is an inexpensive, highly efficient, environmentally friendly form of transport. htey take uplass than one-tenth of the space required by a car, cause very little damage to the road surface and in congested conditions are quicker.
+
+.B "Historical development"
+
+.I "1791"
+
+the appearance of a wooden two-wheeled 'toy'. After a briefburst of interest teh novelty of the toy quickly wore off.
+
+.I "1817"
+
+Karl von Drais developed the 'draisenne walking machine' which had a steerable front wheel. the frame was still mostly timber with wrought iron forks. The wheels were now rimmed with wrought iron to improve their strength and abraision resistance. it had a padded section on the frame to sit on
+
+.I "1840"
+
+Kikpatrick Macmillan added treadles to the rear wheel of his hobbyhorse. operated by rods connected to foot stirrups. The foot stirrups where pushed backwards and forwards.
+
+.I "1861"
+
+cranks were fitted to the front wheel by Ernest and Pierre Michaux in much the same manner as is found on a modern tricycle. called 'velocipede', it ad a wrought iron frame with some cast iron fittings and timber wheels with metal rims. nicknamed 'boneshaker'. A rope operated rear brake was fitted.
+
+.I "1870"
+
+the volocipede would go faster if it had an even larger from wheel. one roation of the pedals would push the bicycle further. these bicycles were called 'ordinaries' because they were the ordinary type of bicycle at the time. riding an ordinary was dangerous and difficult to operate. the ordinary remained top of the bicycle tree for over a decade. 
+
+.I "1884"
+
+John starle produced the rover safety. Both weels were the same size, it had a steerable front wheel, but most importantly the rear wheel was driver by pedals linked to the rear wheel by a chain and sprocket. By having a large front sprocket and small rear sprocket a velocity ratio similar to that of the high wheeled bicycles was achieved. The chain and sprocket system was made possible by the emerging steel technology that enabled small parts of high strength to be manufactured. Lower centre of gravity meant that the brakes could be applied more effectively. John Dunlop re-invented the pneumatic tyre.
+
+.I "1900-1950"
+
+The increased development of the motor car and the aeroplane saw a steady decline in support for the bicycle. 
