@@ -517,4 +517,52 @@ ADCs repeatedly sample the magnitude of the incoming electrical current and conv
 
 .PP
 .ps +2
-.I "Nov 25"
+.I "Jan 20"
+
+.SH
+\s+3COMMUNICATION SYSTEMS
+
+.LP
+.ps +2
+Communication systems enable people and systems to share and exchange data and information electronically. For communication to be successful requires components to agree on a set of rules known as protocols. 
+
+Establishing and agreeing on which set of protocols will be used and the specific detail of each protocol is known as handshaking.
+
+.B "PROTOCOL LEVELS"
+
+Software is used to control and direct the operation of hardware. The transmitter and receiver must agree on how the hardware will be used to transfer messages. 
+
+A set of standards was first developed by the International Standards Organisation (ISO), known as the OSI Model.
+
+.BI "IPT Presentation level" 
+
+.I "OSI Application Layer: "
+The actual data to be transmitted is created by a software application, this data is organised in a format understood by the application that wil receive the data
+
+.I "OSI Presentation Layer: "
+the data is reorganised into a form suitable for subsequent transmission. For example compressing an image and representing it as a sequence of ASCII characters suited to the operating system.
+
+.BI "IPT COmmunication control"
+
+.I "OSI Session Layer: "
+This is where communication with the network is established, commences and is maintained. also includes security to ensure a user has the appropriate access rights.
+
+.I "OSI Transport Layer: "
+The transport layer manages the correct transmission of each packet of data. This layer ensures that packets failing to reach their destination are retransmitted
+
+.I "OSI Network Layer: "
+This is where packets are directed to their destination. IP operates here. 
+
+.BI "IPT Transmission Level"
+
+.I "OSI Data link layer: " 
+this layer defines how the transmission media is actually shared. Device drivers determine the final size of transmitted packets, the speed of transfer, and various other physical characteristics of the transfer.
+
+.I "OSI Physical Layer: "
+this layer performs teh actual physical transfer, hence it is composed solely of hardware. It converts the bits in each message into the signals that are transmitted down the transmittion media.
+
+.LP
+.ps +2
+.B "Message Creation"
+
+The messaage is compiled at the source in preparation for sending. this takes place using some type of software application and perhaps involves the collection of message data from one of the systems users.
