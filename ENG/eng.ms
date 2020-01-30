@@ -706,7 +706,8 @@ love & hate - complex behaviour
 .B "student essay"
 
 .PP
-.I "Dec 13"
+.I "Jan 29"
+.ps +2
 
 
 
