@@ -98,4 +98,79 @@ A' + C' +1
 1
 
 
+.PP
+.I "Jan 29"
+
+.SH
+\s+3IMPACT OF SOFTWARE SOLUTIONS
+
+.LP
+.ps +4
+.BI "Social and Ethical Issues"
+
+.LP
+.ps +2
+Software developers have a responsibility to ensure their products function in a socially responsible and ethical manner
+
+.BI "Impact of Sotware"
+
+Software is used to control the provision of essential services such as electricity, gas and water. Virtually all communication systems including traditionnal phone lines are largely driven by software. 
+
+When software is inappropriately developed or used the impacts have the potential to be significant. Some problems are due to poorly develoiped software that incules bugs, other problems are intentional such as malware and other issues are due to unforseen circnumstances such as the Y2K problem.
+
+.I "Y2K problem"
+
+in the 1960s softawre developpers often used only 2 digits to represent the year within dates. it was anticipated that many computer-based systems would fail as the year changed from 1999 to 2000.
+
+.I "Computer Malware"
+
+Malware or malicious softawre includes any software which performs an unwanted and uninvited taks. 
+
+Virus has the ability to replicate itself
+
+Worms aim to slow down a system.
+
+trojan horse is malicous software that is masquerading as legitimate software.
+
+Spyware aims to obtain your information wihtout your knowledge. 
+
+.I "Social Networking"
+
+a social network is simply a group of people who associate with each other.
+
+private and personal information is all too esasily shared and this can lead to a variety of problems including identity theft, stalking and online bullying.
+
+.BI "Rights and Ressponsibilities of Software Developers"
+
+Software developers have rights in regard to how other people may use and duplicate their products. Along with these rights come responsibilies.
+
+Intellectual property is property resulting from mental labour. the auther own the right to contorl how the work is sold and distributed.
+
+Royalty is compensation to the owner of a right for the use of a work.
+
+.BI "Quality"
+
+the final quality of a software development project is an important responsibility for all software developers. To develop high quality applications is time consuming and costly. Often compromises have to be made because of financial restraints.
+
+Quality Assurance is used to ensure that these standards are observed. It is an ongoing process throughout the design and dev to ensure and verify the quality of the software.
+
+quality assurance attempts to make sure that customer expectations are met and or exceeded
+
+.I "External factors affecting quality"
+
+.IP \[bu] 2
+.ps +2
+Hardware
+.IP \[bu]
+.ps +2
+Operating System
+.IP \[bu]
+.ps +2
+Other software
+.IP \[bu]
+.ps +2
+Runtime errors
+
+Forward compatibility: the ability of an older system to operate in harmony witha new system
+
 

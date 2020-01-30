@@ -899,3 +899,65 @@ John starle produced the rover safety. Both weels were the same size, it had a s
 .I "1900-1950"
 
 The increased development of the motor car and the aeroplane saw a steady decline in support for the bicycle. 
+
+.B "Motor Cycles"
+
+inexpensive, take up little space on the road and have very good fuel economy. However you are not protected from the weather, more physical efort, difficult to carry large sized objects and safety issues.
+
+.B "Trains" 
+
+Trains get a large number of trucks off the road. They can only go where the tracks have been laid
+
+.B "Aeroplanes"
+
+with respect to distances involved and nnumber of people, flying is one of the safest ways to travel.
+
+.B "Motor cars"
+
+Each litre of petrol a car uses releases about 2.5 kilograms of greenhouse gases into the atmosphere. 
+
+.SH
+\s+2Friction
+
+.PP
+.I "Jan 25"
+.LP
+.ps +2
+When developing personal or public trnasport systems engineers endeavour to mazimise efficiency and safety.
+
+.B "Normal force (N)"
+
+The normal force is a reaction force. It always acts normal (perpendicular) to the supporting surface. It balances all the forces that have perpendicular components to the contacting surface. Care should be taken when forces are inclined or surface is inclined.
+
+.B "Friction force (Fr)"
+
+Frictional force is a reaction force that is exerted between the contacting surfaces which tends to prevent movement. it acts along the surface.
+
+.B "Coefficient of friction (mu)"
+
+limiting friction is proportional to the normal component, N. The ratio of the limiting friction to the normal reaction is given by:
+
+.EQ
+mu ={PHI} over {N} 
+.EN
+
+the co-efficient of friction gives an indication of the stickyness of two surfaces.
+
+.BI "Laws of friction"
+.IP \[bu] 2
+.ps +2
+always acts along the contacting surface between the two bodies
+.IP \[bu]
+.ps +2
+acts in a direction and sense so as to oppose any impending motion
+.IP \[bu]
+.ps +2
+if the bodies are in equilibrium, then the frictional force will be equal to teh force tending to produce the motion.
+.IP \[bu]
+.ps +2
+The magnitude of the ration of limiting friction to the normal force is a constant. this constant is determined by the nature of the contacting surfaces.
+.IP \[bu]
+.ps +2
+The limiting friction is independent of the area of contact.
+
+
