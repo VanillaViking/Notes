@@ -815,6 +815,46 @@ In fibre composited, the properties of a base material, or matrix, are imporved 
 .ps +2
 Public transport is transport that is shared between many usres. 
 
+.B "Grouping"
+
+.IP \[bu] 2
+.ps +2
+energy source
+.IP \[bu]
+.ps +2
+propulsion method
+.IP \[bu]
+.ps +2
+medium
+.IP \[bu]
+.ps +2
+level of safety
+.IP \[bu]
+.ps +2
+level of skill
+.IP \[bu]
+.ps +2
+capacity
+.IP \[bu]
+.ps +2
+freedom of route
+.IP \[bu]
+.ps +2
+cost
+.IP \[bu]
+.ps +2
+.IP \[bu]
+.ps +2
+environmental impact
+.IP \[bu]
+.ps +2
+
+
+
+
+
+
+
 .B "Advantages"
 
 .IP \[bu] 2
@@ -899,3 +939,8 @@ John starle produced the rover safety. Both weels were the same size, it had a s
 .I "1900-1950"
 
 The increased development of the motor car and the aeroplane saw a steady decline in support for the bicycle. 
+
+.PP
+.I "Jan 30"
+
+
