@@ -1025,5 +1025,67 @@ Work done on a body is defined as the product of two vectors, the force F and th
 .EQ
 W = F times s cos theta
 .EN
+.ps +2
 
 where theta is the angle betwen the line of action of hte force and the direction of the displacement. SI unit Joule(J).
+
+The work done on a body can also be determined grahically from a force displacement graph
+
+.B "Energy"
+
+Energy is the capacity to do work. The unit for energy is the same as for work- joule(J). 
+
+.B "Kinetic energy (KE)"
+
+the energy that a bopdy possessed due to its motion is called its kinetic energy.
+
+.EQ
+KE ={1} over {2} m{v} sup {2} 
+.EN
+.ps +2
+
+m = mass (kg)
+v = veloctiy (m/s)
+
+.B "Potential Energy (PE)"
+
+The energy that a body posses by virtue of its position is called its potential energy.
+
+two forms:
+.IP \[bu] 2
+.ps +2
+gravitational potential energy due to height
+.IP \[bu]
+.ps +2
+elastic or strain potential enrgy due to elastic deformation
+
+.EQ
+PE = mgh
+.EN
+
+.B "Strain energy (SE)"
+
+strain energy is a form of petential energy It is recoverable and is equal to the amount of work done in stretching or compressing a spring.
+
+.EQ
+S E = W ={1} over {2} F e
+.EN
+.ps +2
+
+the slope of the line up to the elastic limit is known as the spring constant (k). The spring constant of a coiled spring is determined by the force required to stretch or compress a spring by a unit length, measured in N/m
+.EQ
+k ={F} over {e} 
+.EN
+.EQ
+k e = F
+.EN
+.ps +2
+Sub into the strain energy formula
+.EQ
+S E ={1} over {2} F e
+.EN
+.EQ
+S E ={1} over {2} k{e} sup {2} 
+.EN
+
+
