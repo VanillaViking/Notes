@@ -566,3 +566,7 @@ this layer performs teh actual physical transfer, hence it is composed solely of
 .B "Message Creation"
 
 The messaage is compiled at the source in preparation for sending. this takes place using some type of software application and perhaps involves the collection of message data from one of the systems users.
+
+.B "Organisation of packets at the inferface between"
+
+when a message is being prepared for transmission it descends the stack of protocols from the Application Level down to where it is ready for physical transmission by the hardware operating at the Transmission Level. Each protocol wraps the  data packet from the layer above with its own hearder and trailer. 

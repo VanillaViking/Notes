@@ -1000,4 +1000,31 @@ The magnitude of the ration of limiting friction to the normal force is a consta
 .ps +2
 The limiting friction is independent of the area of contact.
 
+.BI "Angle of static friction"
 
+There will be two reaction forces. The normal force which balances the weight force and the limiting friction force which balances the applied force.
+
+A single force called the resultant reaction can replace these two reaction forces.
+
+Angle of the slope is called the
+.I "angle of inclination"
+
+.BI "Angle of repose"
+
+It is useful to know if an object will slide on an inclined surface.
+
+When the angle of inclination is equal to the angle of static friction, the body will be on hte point of sliding and the friction will be limiting. This ange is called the angle of repose
+
+
+.SH
+\s+3Work
+
+.LP
+.ps +2
+Work done on a body is defined as the product of two vectors, the force F and the displacement s creaaaated by the aplication of the force
+
+.EQ
+W = F times s cos theta
+.EN
+
+where theta is the angle betwen the line of action of hte force and the direction of the displacement. SI unit Joule(J).

@@ -173,4 +173,36 @@ Runtime errors
 
 Forward compatibility: the ability of an older system to operate in harmony witha new system
 
+.I "Code of Conduct"
+
+A code of conduct is a set of standards by which Software Developers agree to abide.
+
+.I "Malware"
+
+software devs need to ensure their products do not contain malware. 
+
+.IP \[bu] 2
+.ps +2
+all incoming mails scanned for malware
+.IP \[bu]
+.ps +2
+removable media scanned before use
+.IP \[bu]
+.ps +2
+update anti-virus regularly
+.IP \[bu]
+.ps +2
+scan all software before distribution
+.IP \[bu]
+.ps +2
+use firewalls and other mechanisms
+
+.I "Ergonomic Issues in Software Design"
+
+Ergonomics: The study of the relationship between human workers and their work environment.
+
+the design and operation of the screens is of primary interest.
+
+Usser Interface: the screen designs and connections between screens that allow the user to communicate with software.
+
 
