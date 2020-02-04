@@ -706,8 +706,17 @@ love & hate - complex behaviour
 .B "student essay"
 
 .PP
-.I "Jan 29"
+.I "Feb 03"
 .ps +2
+
+I wanted "What Time is It now, Where you are" to not only be a unique way of telling a New Year's Eve story, but also one that acknowledges the process of writing a novel. By writing the story in a metafictive style, I was able to acheive a very interesting feel to the story. It was as though the story was being morphed into form as the reader was reading along. However, creating a metafiction also comes with its downsides. It became increasingly harder to distinguish between what is the voice of the author, and what's not. By using parentheses to represent the author's voice, I was able to sufficiently distinguish the author's voice from the rest of the story. The parentheses makes it seem as though the text within is more subtle, making it easier for the reader to follow the main story.
+
+.PP
+.I "Feb 04"
+.ps +2
+
+Kimberlee's perspective 
+
 
 
 

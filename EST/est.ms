@@ -2,8 +2,7 @@
 .I "Oct 14"
 .SH
 \s+3Civil Engineers
-.LP
-.ps +2
+.LP .ps +2
  A civil engineer will work from an architect's drawings and consider wheter the chosen materials for a particuular building will be strong enough to hold a structure of that height or design.
 
 .SH
