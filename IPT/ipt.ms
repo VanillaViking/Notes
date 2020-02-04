@@ -16,6 +16,10 @@ Project management is a methodical and planned approach used to guide all the ta
 A specialist project manager or even a team of project managers will be appointed to perform project management tasks.
 Project managers possess excellent communication and planning skills. The must motivate the development team, negotiate with all stakeholders, resolve conflice and at the same tie ensure the project progresses within budget and time constraints.
 
+.I "Requirement prototype"
+
+built to have users interact with it, to define what the reqiuirements are for building a new system. used for understanding the requirements of the system.
+
 .I "Communication skills"
 .IP \[bu] 2
 .ps +2
@@ -64,7 +68,7 @@ Knowing information in advance can prove invaluable, such as market value of the
 
 .IP \[bu]
 .ps +2
-Consider a range of possible acceptable arrangements in advance. Optioans that will appeal to the other party or that they may well bring to teh negotiation table.
+Consider a range of possible acceptable arrangements in advance. Optioans that will appeal to the other party or that they may well bring to the negotiation table.
 
 .IP \[bu]
 .ps +2
