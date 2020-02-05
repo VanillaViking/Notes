@@ -203,6 +203,67 @@ Ergonomics: The study of the relationship between human workers and their work e
 
 the design and operation of the screens is of primary interest.
 
-Usser Interface: the screen designs and connections between screens that allow the user to communicate with software.
+User Interface: the screen designs and connections between screens that allow the user to communicate with software.
 
+An intuitive user interface that allows users to work the way they want is perhaps the most critical aspect of successful software products. Suck products are easy to learn and use.
 
+the most important aspect of user interfaces is consistency of design. Consistency of design allows users to transfer skills form other applictaions and other areas of your application to new areas.
+
+devlopment of consistent user interfacess include:
+.IP \[bu] 2
+.ps +2
+Setting standards and sticking to them.
+.IP \[bu]
+.ps +2
+Explain the rules. Develop a simple set of rules that apply to your entire application
+.IP \[bu]
+.ps +2
+Use interface elements correctly. Know when to use screen elements and how to use them correctly. For example, command buttons, check boxes etc. 
+.IP \[bu]
+.ps +2
+Use colourr appropriately. COlour should be used sparingly. Colour is viewed differently by each individual, what looks pleasing to you may be abhorrent to others. Don't override a user's system settings.
+.IP \[bu]
+.ps +2
+use fonts appropriately. hte use of fancy fonts can decrease usability considerabl. 
+.IP \[bu]
+.ps +2
+Alignment of data entry elements. text boxes should be left justified with their associated lables also left justified.
+.IP \[bu]
+.ps +2
+Provide a consisten method of reversing actions.
+
+.B "Inclusivity issues"
+
+inclusivity: not excluding people based on their cultural backgroud, economic background, gender, disability, etc.
+
+.B "Gender"
+
+both men and women should be included in the software design and development process.
+
+.B "Disability"
+
+Sofware design should include functionality that allows software to be used and accessed by a wide range of users.
+
+.B "Privacy issues"
+
+Privacy is about protecting an individual's personal information.
+
+Laws are needed that require organisations to prvovide individuals with answer to these questions.
+
+NPP1: COllection: what an organisation should do when collection your personal information
+
+NPP2: Use and Disclosure: ooutlines how organsiations can use and disclose your personal information
+
+NPP3: Data Quality & NPP4: Data Security: standards that organisations must meet for the accuracy, currency, completeness and security of your personal information.
+
+NPP5: openness: requires organisations to be open about how they handle your personal information
+
+NPP6: Access & Correction: gives your a general right of accesss to your own personal information, and the right to have that information corrected, if it is innacurate.
+
+NPP7: Identifiers: Commonwealth government identifies can only be used for the purposes which they were issued
+
+NPP8 Anonymity: requires organisations to provide the opportunity for you to interactwith them without identifying yourself.
+
+NPP9: Transborder Data Flows: outlines privacy protections that apply to the transfer of your personal info out of Australia
+
+NPP10: Sensitive Information: requires your consent when an organisation collects sensitive information about you suck as health infomration, or information about your racial or ethnic background or criminal record. 
