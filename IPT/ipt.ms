@@ -274,10 +274,29 @@ how funds will be allocated (will funds be released before task, progressively, 
 
 .IP \[bu]
 .ps +2
-<?>
+
 .IP \[bu]
 .ps +2
 <?>
+
+.B "Social and ethical issues"
+
+.IP \[bu] 2
+.ps +2
+health and safety issues such as ergonomic designof furniture, appropriate lighting and noise leves, variedwork routines
+.IP \[bu]
+.ps +2
+Security of data and information during development. 
+.IP \[bu]
+.ps +2
+Copyright issues including who will retain the copyrights for the new system.
+.IP \[bu]
+.ps +2
+Respect for the rights and needs of individual team members.
+
+
+Systems Analyst:  A person who analyses sstems, determine requirements and designs new information systems.
+
 
 
 .bp
@@ -574,3 +593,4 @@ The messaage is compiled at the source in preparation for sending. this takes pl
 .B "Organisation of packets at the inferface between"
 
 when a message is being prepared for transmission it descends the stack of protocols from the Application Level down to where it is ready for physical transmission by the hardware operating at the Transmission Level. Each protocol wraps the  data packet from the layer above with its own hearder and trailer. 
+
