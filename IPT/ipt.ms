@@ -294,8 +294,15 @@ Copyright issues including who will retain the copyrights for the new system.
 .ps +2
 Respect for the rights and needs of individual team members.
 
+.B "Understanding the Problem"
+
+the primary aim of this stage is to determine the purpose and requirements of a new system. Once requirements have been stablished then an accurate Requirements Report can be produced. It defines the precise nature of the problem to be solved.
+
+Requirements: Features, properties or behaviours a system must have to achieve its purpose. Each requirement must be verifiable.
 
 Systems Analyst:  A person who analyses sstems, determine requirements and designs new information systems.
+
+A requirements repoorts can be considered as a black box - it specifies the inputs and the outputs together with their relationships to each other. However it makes no attempt to solve the problem.
 
 
 
