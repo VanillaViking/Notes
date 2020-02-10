@@ -547,7 +547,8 @@ ADCs repeatedly sample the magnitude of the incoming electrical current and conv
 
 .PP
 .ps +2
-.I "Jan 20"
+
+
 
 .SH
 \s+3COMMUNICATION SYSTEMS
