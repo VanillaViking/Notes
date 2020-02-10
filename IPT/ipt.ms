@@ -294,7 +294,7 @@ Copyright issues including who will retain the copyrights for the new system.
 .ps +2
 Respect for the rights and needs of individual team members.
 
-
+us
 Systems Analyst:  A person who analyses sstems, determine requirements and designs new information systems.
 
 
@@ -540,7 +540,8 @@ ADCs repeatedly sample the magnitude of the incoming electrical current and conv
 
 .PP
 .ps +2
-.I "Jan 20"
+
+
 
 .SH
 \s+3COMMUNICATION SYSTEMS
