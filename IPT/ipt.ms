@@ -1,5 +1,3 @@
-.TL
-\s+5IPT Notes
 .PP
 .I "Oct 14"
 .SH
@@ -304,6 +302,15 @@ Systems Analyst:  A person who analyses sstems, determine requirements and desig
 
 A requirements repoorts can be considered as a black box - it specifies the inputs and the outputs together with their relationships to each other. However it makes no attempt to solve the problem.
 
+.B "Testing evaluating and Maintaining"
+
+Acceptance Tests: formal tests conducted to verify whether or not a system meets its requirements.
+
+Volume Data: test data designed to ensure the system performs within its requirements when processes are subjected to large volumes of data.
+
+Simmulated data: aims to test the performance of systems under simulated operational conditions.
+
+Live data is acutal data that is processed by the operational system.
 
 
 .bp
