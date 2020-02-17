@@ -602,3 +602,14 @@ The messaage is compiled at the source in preparation for sending. this takes pl
 
 when a message is being prepared for transmission it descends the stack of protocols from the Application Level down to where it is ready for physical transmission by the hardware operating at the Transmission Level. Each protocol wraps the  data packet from the layer above with its own hearder and trailer. 
 
+2019 HSC
+
+
+a) Testing the system was planned to start 3 weeks before it actually started, however did not take as long as epected, finishing only 1 week after the expected date. It was a project milestone to finish the task
+
+
+b) pilot method is used in this scenario as the government is implementing the system on a trial userbase before releasing out to the entire country. This method would be suitable for this scenario because it is easier to test and resolve bugs/problems within the system on a smaller userbase, and there is a backup system still in place incase of severe issues
+
+
+
+
