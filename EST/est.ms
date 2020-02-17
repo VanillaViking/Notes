@@ -1088,4 +1088,40 @@ S E ={1} over {2} F e
 S E ={1} over {2} k{e} sup {2} 
 .EN
 
+.I "Feb 11"
 
+rim
+spokes
+hub
+
+aluminium was lighter for useing in spokes
+
+carbon fibre rims: lightest material
+
+the real wheel has rotational force generated from hub
+
+front wheel has to deal with steering and braking
+
+.PP
+.I "Feb 12"  
+.ps +2
+
+bicycle videos on paramoodle
+
+.PP
+.I "Feb 17"
+.ps +2
+
+process annealing: the process of softening steel by heatoing it to a temperature near but below the recrystalisation temperature and then cooling slowly.
+
+full annealing: heating steel to above the upper critical temperature and slow cooling usually in the furnace. (slowest process and makes the metal very soft)
+
+soaking: leaving something in high heat for a long time.
+
+Normalising: heat treatment followed by air cooling, of heavily forged and cold formed steel, intended to homogenise the crystal structure
+
+recrystalisation annealing: heating up to the recrystalisation point but not changing the phase.
+
+tempering: heating then quenching and then heating up less again.
+
+case hardening: a general temr for any heat treatment process which is used to harden the surface of steel. eg: carburising

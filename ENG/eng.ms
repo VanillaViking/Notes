@@ -718,5 +718,12 @@ I wanted "What Time is It now, Where you are" to not only be a unique way of tel
 Kimberlee's perspective 
 
 
+1. What is the purpose of the docu-drama?
+To make shakespearean plays appeal to a more diverse audience such as an american audience.
 
+2. Did Pacino succeed?
+Pacino succeeds in showing insights in Shakespearean texts to me, while also showing his impacts on modern society.
 
+3. I liked the docu-drama format of the movie, since to me it was unique and gave further insight into the thought process behind the movie
+
+4. The docu-drama gave me an appreciation for the complexities in shakespeare's plays through the debates and arguments that the cast has in the docu-drama.
