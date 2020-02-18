@@ -1125,3 +1125,81 @@ recrystalisation annealing: heating up to the recrystalisation point but not cha
 tempering: heating then quenching and then heating up less again.
 
 case hardening: a general temr for any heat treatment process which is used to harden the surface of steel. eg: carburising
+
+.I "Feb 18"
+
+transverse: across the small distance
+longitudinal
+
+etching:using a chemical compound to eat away at the metals' grain boundaries
+
+requirements of ball brearing: to provide a low firction support system for various axles. Must resist compressive stresses and wear condtions
+
+composition: high carbon steel with suitable alloying elements
+
+brinall: spherical indent
+
+rockwell: diamond tip
+
+
+*video on moodle*
+forging
+
+extrusion: ecellent sruface nisish
+
+rolling: imporoved mechanical properties, fully automated
+
+casting: primary shaping process
+
+die casting used for ferrous metals
+surface finish
+
+sand casting: wide range fo metals
+large and complex parts
+low costs
+poor surface finish
+
+investment casting: 
+good for complex geometry geometry
+time consuming
+
+.I "Moulding"
+
+more about non metals
+
+.IP \[bu] 2
+.ps +2
+injection molding: die casting but plastic
+.IP \[bu]
+.ps +2
+compression molding: mostly udsed for thermosets, low tooling costs, slow process
+.IP \[bu]
+.ps +2
+
+.I "machining"
+
+.I "Joining"
+
+.I "Additive"
+
+adding materlia to build up the object eg.3d printing
+
+production of aluminium tube
+
+make giant billets
+.IP \[bu]
+.ps +2
+preheat them so ready to extrude
+.IP \[bu] 2
+.ps +2
+loaded into the press container
+.IP \[bu]
+.ps +2
+extrude
+.IP \[bu]
+.ps +2
+draw
+
+draw is pulling
+
+
