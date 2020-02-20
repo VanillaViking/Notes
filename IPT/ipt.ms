@@ -617,6 +617,60 @@ a) Testing the system was planned to start 3 weeks before it actually started, h
 
 b) pilot method is used in this scenario as the government is implementing the system on a trial userbase before releasing out to the entire country. This method would be suitable for this scenario because it is easier to test and resolve bugs/problems within the system on a smaller userbase, and there is a backup system still in place incase of severe issues
 
+data:
+camera footage
+passwords
+audio recordings
 
+information:
+livestream; possibly minor edits
 
+.SH Automated Manufacturing systems
+
+.LP
+.ps +2
+
+manufacturing: making a product for a specified purpose
+
+system: a collection of components that takes inputs and produces outputs for a specified purpose
+
+A collection of components that takes inputs and produces outputs to make a product for a specified purpose without the need of human intervention 
+
+CAD: Computer aided design
+CAM: Computer aided manufacturing
+CIM: Computer Integrated manufacturing
+
+CIM is a combination of CAD and CAM
+
+allows data to be transported form the design process to theproductiaon process in a streamlined manner that reduces waste and minimises the time neded for the manufacturing process.
+
+Mail sorting is automated. Require specialised machinery
+
+Automated warehouses: a storage centre in which all thetasks are related to 
+.IP \[bu] 2
+.ps +2
+Receiving
+.IP \[bu]
+.ps +2
+Storing
+.IP \[bu]
+.ps +2
+Recording
+.IP \[bu]
+.ps +2
+Taransferring goods(picking)
+
+why:
+save $
+reduce manpower
+reduce human error
+safety
+lower production costs
+continous w/o rests
+more production in less time
+accuracy
+quality
+greater supply
+saving space
+reduce wastage
 
