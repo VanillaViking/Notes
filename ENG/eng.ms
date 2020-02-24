@@ -743,4 +743,23 @@ slithering walking style
 shadows: two face nature
 slicing sounds
 
+How has Pacino reshaped Shakespeare's opening soliloquy?
+
+-acknowledge medium
+
+-direct comparison between the original text and how Pacino has performed it
+
+-context plays a role in how he reshaped it
+
+
+-soliloquy -> close up, natural lighting
+-'nor made to court an amorous' -> facial expression of Pacino, casual attire
+
+-imagery (deformity. unfinish'd) -> Pictures, slicing sounds, pacino shows a sense of excitement within richard which he had to supress.
+
+-conviction, narcissism, egotism, duality -> whips and hits the palace carelessly, use of shadows, film on cap shoiwing his ego
+
+.B "paragrpaph"
+
+Pacino reshapes Richard's opening soliloquy to suit a modern audience by using a combination of body language, film techniques and lighting to represent and emphasize aspects of the soliloquy. Shakespeare's original soliloquy of Richard gave a hint towards Richard's bitterness about his social status. This can be observed in the line "nor made to court an amorous looking glass", where the tone in which the sentence is read shows his unenthusiastic. Pacino transforms this aspect to appeal to a modern american audience by emphasizing Richards "bitter" attitude using his facial expression. The original play also portrays Richard's excitement within his thoughts which he supresses. Likewise, Pacino adds fast unpleasant images along with non diagetic slicing sounds to convey Richards excitement. 
 
