@@ -1202,4 +1202,169 @@ draw
 
 draw is pulling
 
+.PP
+.ps +2
+.I "Feb 25"
 
+heat treated glass is little harder
+
+
+howtempered glass in made
+.IP \[bu]
+.ps +2
+cook glass in process
+.IP \[bu]
+.ps +2
+Glass enters quench cooling system
+.IP \[bu]
+.ps +2
+ready to load
+
+
+.PP
+.ps +2
+.I "Feb 26"
+
+microscopic defects make glass bad at tension
+
+sodium added to reduce melting point of glass so its easier to work with.
+
+by putting different size atoms sucha s potassium it strengthens it
+
+this makes outside of glass in compression and center in tension.
+
+primary made of silica.
+
+
+glass is the result of fusion of inorganic materials that have been subsequently cooled to rigidity wihtout crystallisation.
+
+strong in compression. 
+
+amorphous structure which allows it to tbe transparent
+
+modifiers are metal oxides which 
+
+.B "Devitrification"
+
+some contaminate particles introduced to the glass melt willact to develop and prpagate loccal crystalline growth during cooling.
+
+soda lime glasescontian soda and lime .
+
+soda prevents devitrificaiton. 
+
+borosilicate glass: 20% boron oxide
+
+90% of all glasses are soda lime
+
+also known as Pyrex
+
+low thermal expansion and provide resistance to fracture at elevated temperatures.
+
+ceramics are good insulators 
+
+.B "Hihg silicaglass"
+borosilicate is reheated to remove most of the boron to produce high silica glass
+
+.B "lead glasses"
+
+high proportion of lead
+
+viscosity is the resistance of a fluid to flow
+
+.B "sheet glass" 
+
+float process was developed in the 1950s and replaced the traditoin drawing imethod.
+
+.B "glass fibre"
+
+glass in fibre form has very little surface are and therefore no surface flaws. can be as mush as 100 times under tensile load.
+
+crown process: fed into a rapidle rotating container with hundereds of tiny holes spaces around its bottem edge. Centriful forces caause the molten glass to be squeesid trhought he holes inthe form of individual firbes about 0.007 mm thick
+
+.B "Annealing"
+
+reheated and soaked at the annealing temperature range then cool slowly
+
+.B "Tempering"
+
+is designed to place hte outside surfaces in compression
+
+four to five times as strong as annealed
+
+.B "laminated glass"
+
+sanwich consisting of two shets of annealed glass bonded togeter by athin sheet of transparent polymer.
+
+insulates noise
+
+.B "structure of glass"
+
+car winscreen is comnvex to act like an arch
+
+unlike sintered ceramics (squising powder), glass ceramics dont have pores
+
+glass cermics uded for cooktops, cookware etc.
+
+
+.SH
+\s+3Simple machines
+
+.LP
+.ps +2
+
+.IP \[bu] 2
+.ps +2
+Levers
+.IP \[bu]
+.ps +2
+Pulleys/Gears/Chain & sprocket
+
+.I "Mar 11"
+
+1. how does a car act like a cardboard box in an accident? crumple zone
+
+2.As the stopping distance decreases what happens to the stopping force?
+
+3. Force x Distance = k constant value
+
+4. What is designed to happen to the occcupant capsule of a modern car in an accident? stays intance while hte body of hte car crumples
+
+5. In a crash which of the following do you think would be safest for the occupants, a large car, a small car or a van? large car
+
+6.In a crash which of these would be most unsafe for th eoccupants? 
+
+7. In car versus pedestrian accidents, which is safter for the pedestrain, a car fitted with a bull-bar or one without? Why? without bull bar because it is rigid
+
+8. According to Newton a moving body will keep moving unless what? unless somehting forces it to stop
+
+9. To sotp the driver hitting the steering wheel modern cars are fitted with what? 
+
+10. when the stopping distance increases what happens to the forces upon the occupants. decreases
+
+11. the faster the car goes the more kinetic energy it has
+
+12. If 2 cars collide at 80 km/h the work done is ___ so it is the same as*/greater/less than if a single car collides wiht a barrier at 80km/h 
+
+.EQ
+KE ={1} over {2}m{v} sup {2} 
+.EN
+
+14. If you double the stopping speed what happens to the stopping distance? decreases by 1/4 
+
+15. If you triple the stopping speed what happens to the stopping distance? decreases by 1/9
+
+16. If you quadruple the stopping speed what happens to the stopping distance? decreases by 1/16
+
+17. If you have an accident at 50 km/h it has the smae force 
+
+
+Cast train wheel: compression, wear resistance. Tests: corrosion tests
+
+Bicycle frame: compression, tension, shear, toughness. Tests: strain tests.
+
+Suspension springs: wear fatigue, elasticity, corrosion Tests: corrosion testing, endurance tests
+
+Bicycle helmets: impact, corrosion, toughness, Tests: charpy test, Rockwell, corrosion tests
+
+
+Brake cable

@@ -763,3 +763,50 @@ How has Pacino reshaped Shakespeare's opening soliloquy?
 
 Pacino reshapes Richard's opening soliloquy to suit a modern audience by using a combination of body language, film techniques and lighting to represent and emphasize aspects of the soliloquy. Shakespeare's original soliloquy of Richard gave a hint towards Richard's bitterness about his social status. This can be observed in the line "nor made to court an amorous looking glass", where the tone in which the sentence is read shows his unenthusiastic. Pacino transforms this aspect to appeal to a modern american audience by emphasizing Richards "bitter" attitude using his facial expression. The original play also portrays Richard's excitement within his thoughts which he supresses. Likewise, Pacino adds fast unpleasant images along with non diagetic slicing sounds to convey Richards excitement. 
 
+
+.PP
+.ps +2
+.I "Mar 2"
+
+Anne's emotional change
+
+Anne's venomous language, she also curses herself
+
+stichomythia: quick short dialogues usually 
+
+Anne does not have a man to protect him
+
+how has Pacino reshaped shakespeare's Lady sanne scene?
+
+-verbal exchange stichomythia --> visual, lighted
+
+mood atmosphere, tension, predator/prey
+
+Richard revelling in themoment, ability to woo
+
+how quickly heis able to woo her, pace
+
+
+.I "Mar 9"
+
+Clarence's execution (ACT 1 SCENE 4)
+
+conscience: feeling forgiveness etc
+
+richard pulling strings from a distance
+
+Richard never  seems to think twice
+
+Clarence the only person whose murder was shown
+
+people shaking hands etc while clarence being murdered
+
+words that describe the scene
+
+tense
+
+uncertainty
+
+MURDERER: "What shall we do?"
+
+Clarence: "would you not entreat for life as you would beg, were you in my distress"
