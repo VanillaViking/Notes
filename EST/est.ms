@@ -1163,7 +1163,7 @@ investment casting:
 good for complex geometry geometry
 time consuming
 
-.I "Moulding"
+.I "Molding"
 
 more about non metals
 
@@ -1184,13 +1184,16 @@ compression molding: mostly udsed for thermosets, low tooling costs, slow proces
 
 adding materlia to build up the object eg.3d printing
 
+
 production of aluminium tube
 
+.IP \[bu] 2
+.ps +2
 make giant billets
 .IP \[bu]
 .ps +2
 preheat them so ready to extrude
-.IP \[bu] 2
+.IP \[bu]
 .ps +2
 loaded into the press container
 .IP \[bu]
@@ -1199,7 +1202,11 @@ extrude
 .IP \[bu]
 .ps +2
 draw
+.IP \[bu]
+.ps +2
+heat treatment: 500 C and then quench in water
 
-draw is pulling
+
+draw is pulling extrusion is pushing
 
 

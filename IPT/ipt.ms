@@ -630,6 +630,8 @@ livestream; possibly minor edits
 .LP
 .ps +2
 
+Automation: the application of automatic control to industrial processes.
+
 manufacturing: making a product for a specified purpose
 
 system: a collection of components that takes inputs and produces outputs for a specified purpose
@@ -660,17 +662,54 @@ Recording
 .ps +2
 Taransferring goods(picking)
 
-why:
+.B "Why:"
+
+.IP \[bu] 2
+.ps +2
 save $
+.IP \[bu]
+.ps +2
 reduce manpower
+.IP \[bu]
+.ps +2
 reduce human error
+.IP \[bu]
+.ps +2
 safety
+.IP \[bu]
+.ps +2
 lower production costs
+.IP \[bu]
+.ps +2
 continous w/o rests
+.IP \[bu]
+.ps +2
 more production in less time
+.IP \[bu]
+.ps +2
 accuracy
+.IP \[bu]
+.ps +2
 quality
+.IP \[bu]
+.ps +2
 greater supply
+.IP \[bu]
+.ps +2
 saving space
+.IP \[bu]
+.ps +2
 reduce wastage
+
+An automated manufacturing system has the ability to perform the following tasks:
+.IP \[bu] 2
+.ps +2
+Collecting data from the environment through sensors
+.IP \[bu]
+.ps +2
+Processing data into information using a microprocessor as a controller
+.IP \[bu]
+.ps +2
+Performing work on a product.
+
 
