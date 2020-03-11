@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+\s+5IPT Notes
+>>>>>>> 9df6ef608f7c5e674edc4179c6d05f896ed0caac
 .PP
 .I "Oct 14"
 .SH
@@ -275,7 +280,7 @@ how funds will be allocated (will funds be released before task, progressively, 
 
 .IP \[bu]
 .ps +2
-<?>
+
 
 .B "Social and ethical issues"
 
@@ -662,9 +667,14 @@ Recording
 .ps +2
 Taransferring goods(picking)
 
+<<<<<<< HEAD
 .B "Why:"
 
 .IP \[bu] 2
+=======
+why:
+.IP \[bu]
+>>>>>>> 9df6ef608f7c5e674edc4179c6d05f896ed0caac
 .ps +2
 save $
 .IP \[bu]
@@ -701,6 +711,7 @@ saving space
 .ps +2
 reduce wastage
 
+<<<<<<< HEAD
 An automated manufacturing system has the ability to perform the following tasks:
 .IP \[bu] 2
 .ps +2
@@ -713,3 +724,83 @@ Processing data into information using a microprocessor as a controller
 Performing work on a product.
 
 
+=======
+.PP
+.ps +2
+.I "Feb 28"
+
+
+
+conitnuous systems: capable of runing 24 ours without stopping
+
+batch systems: produce a specific quantity of a product
+
+discrete: performs a single task in a small tie interval.
+
+
+.B "Sensors"
+
+Temperature sensors are devices htat measure hte tempereature of the ai, a fluid or an object.
+.IP \[bu] 2
+.ps +2
+Resistance thermometers: measure the temperature using a metallic conductor.the conductors resistance to electrical current increases with temperature. 200C - 800C
+.IP \[bu]
+.ps +2
+Thermocouples meaaasure temperature using two different metals. A voltage is produced 250C to 1400
+.IP \[bu]
+.ps +2
+Thermistor is a semiconductor device that measures temperature. resistance of the semiconductor is very rapid. Therefore more sensitive and resistance thermometers.
+
+Characteristics of sensors:
+
+.IP \[bu]
+.ps +2
+Resolution:
+.IP \[bu]
+.ps +2
+Accuracy: difference between measured value and real value
+.IP \[bu]
+.ps +2
+Cost 
+.IP \[bu]
+.ps +2
+Range
+.IP \[bu]
+.ps +2
+Reliability
+.IP \[bu]
+.ps +2
+Durability
+.IP \[bu]
+.ps +2
+Dynamic response: how quickly changes are detected
+
+
+.B "Pressure"
+
+devices that measure the exertion of a force.
+
+A diapragm is a small circular piece of material held inside a small container wiht one surface in contact with the liquid or gas being measured andtheother exposed to normal air pressure. made of flexible material.
+
+.B "Motion"
+
+devices that measure the reate of change of position.
+
+.B "Flow"
+
+sensors are devices that detect the motion of fluids, including liquiids and gases. Measure the flow of liquids and gases through pipes and drains.
+
+.B "Light"
+
+a photodiode produces a voltage in proportion to the amount of light falling on its surface.
+
+
+10010110
+00011110
+
+10110100
+
+open loop: simply takes instruction and executes them
+
+closed loop: takes data 
+>>>>>>> 9df6ef608f7c5e674edc4179c6d05f896ed0caac
