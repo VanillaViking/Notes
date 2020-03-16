@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 
 \s+5IPT Notes
->>>>>>> 9df6ef608f7c5e674edc4179c6d05f896ed0caac
 .PP
 .I "Oct 14"
 .SH
@@ -667,14 +664,11 @@ Recording
 .ps +2
 Taransferring goods(picking)
 
-<<<<<<< HEAD
 .B "Why:"
 
 .IP \[bu] 2
-=======
 why:
 .IP \[bu]
->>>>>>> 9df6ef608f7c5e674edc4179c6d05f896ed0caac
 .ps +2
 save $
 .IP \[bu]
@@ -711,7 +705,6 @@ saving space
 .ps +2
 reduce wastage
 
-<<<<<<< HEAD
 An automated manufacturing system has the ability to perform the following tasks:
 .IP \[bu] 2
 .ps +2
@@ -724,7 +717,6 @@ Processing data into information using a microprocessor as a controller
 Performing work on a product.
 
 
-=======
 .PP
 .ps +2
 .I "Feb 28"
@@ -803,4 +795,28 @@ a photodiode produces a voltage in proportion to the amount of light falling on 
 open loop: simply takes instruction and executes them
 
 closed loop: takes data 
->>>>>>> 9df6ef608f7c5e674edc4179c6d05f896ed0caac
+
+Damping:
+a decrease caused in hte amplitude of successive oscillation or waves. For example, shock absorbers are a dampin device.
+.IP \[bu]
+.ps +2
+Overdamping occurs if the change is too slow, and the actuator takes longer to reach the desired lever or position
+.IP \[bu]
+.ps +2
+Underdamping occurs if the change is too fast, and the actuator overshoots the desired level
+.IP \[bu]
+.ps +2
+Critical damping
+
+Signal condiitoning: signals oten have to be modified or conditioned to be in a usable format for the controller.
+
+Rondom noise: is a signal added to the original signal in a random fashion and is usually of fairly low value.Periodic noice is a signal wiht some type of regular pattern or shape that is added ot the desired singal.
+
+Block diagram: a diagram used to represent a system
+Block diagram: a diagram used to represent a system. Helps s visualize dependenies 
+
+
+
+
+
+
