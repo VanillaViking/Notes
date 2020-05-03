@@ -611,6 +611,9 @@ The messaage is compiled at the source in preparation for sending. this takes pl
 
 when a message is being prepared for transmission it descends the stack of protocols from the Application Level down to where it is ready for physical transmission by the hardware operating at the Transmission Level. Each protocol wraps the  data packet from the layer above with its own hearder and trailer. 
 
+7-1 for transmission, 1-7 for receiving
+
+
 2019 HSC
 
 
@@ -627,7 +630,13 @@ audio recordings
 information:
 livestream; possibly minor edits
 
-.SH Automated Manufacturing systems
+.B "Internet Protocol"
+
+Ip causes data packets to move from sender to receiver. it does not use any error checks, allowing it to be faster. should a potionn of ht enetwork failthe messages are automatically rerouted around the problem area. 
+
+
+
+.SH AUTOMATED MANUFACTURING SYSTEMS
 
 .LP
 .ps +2
@@ -815,8 +824,36 @@ Rondom noise: is a signal added to the original signal in a random fashion and i
 Block diagram: a diagram used to represent a system
 Block diagram: a diagram used to represent a system. Helps s visualize dependenies 
 
+.SH
+\s+3Assembly line
 
+.LP
+Assembly line production is a series of workstations connected by a transfer system that movese parts between each workstation. Assembly line production requires various operations and product trransfers to be properly coordinated. This is controlled by special computers called programmable logic controllers. They are used for data capture and actuator control and to perform timing and sequencing functions.
 
+.SH
+\s+3Automated warehouses
 
+.LP
+An automated warehouse uses automatic control for the storage of products. Tracking of warehouse items is necessary:
+.IP \[bu] 2
+.ps +2
+knowing when to reorder a part
+.IP \[bu]
+.ps +2
+monitoring the daily or weekly use of a part
+.IP \[bu]
+.ps +2
+knowing which products are not being sold
+.IP \[bu]
+.ps +2
+calculating capital tied up in warehouse stock
+.IP \[bu]
+.ps +2
+being able to assemble customer orders from warehouse stock
+.IP \[bu]
+.ps +2
+knowing what space is available for new product storage
+
+Automated warehouses use machines independent of human guidance for loading or unloading a product.
 
 

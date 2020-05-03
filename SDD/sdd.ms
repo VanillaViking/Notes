@@ -267,3 +267,80 @@ NPP8 Anonymity: requires organisations to provide the opportunity for you to int
 NPP9: Transborder Data Flows: outlines privacy protections that apply to the transfer of your personal info out of Australia
 
 NPP10: Sensitive Information: requires your consent when an organisation collects sensitive information about you suck as health infomration, or information about your racial or ethnic background or criminal record. 
+
+
+.B "Classification of software copyright"
+
+.I "Commercial"
+
+Commercial software is most software purchased from softare publishers. You are actually purchasing a licence to use the software. The licensing company owns the product and its copyright
+
+.IP \[bu] 2
+.ps +2
+one archival copy may be made for use only if the original fails.
+.IP \[bu]
+.ps +2
+Modificaitons to the software are not permitted.
+.IP \[bu]
+.ps +2
+Reverse engineering and decompilation are not allowed.
+.IP \[bu]
+.ps +2
+use of the work as part of another package is not allowed without permission
+
+.I "Open source"
+
+open source licences specifically remove many traditional copyright. The source code is developed collaboratively and is available to all to modify and redistribute. The only significant restrictions being that the auther s recognised and that modified products must be released using the same unrestricted open source licence
+
+.IP \[bu] 2
+.ps +2
+freedom to use the software for any purpose
+.IP \[bu]
+.ps +2
+the freedom to change the software to suit your needs
+.IP \[bu]
+.ps +2
+freedom to share the software with your friends and neighbors
+.IP \[bu]
+.ps +2
+freedom to share the changes you make
+
+.I "Shareware"
+
+.IP \[bu]
+.ps +2
+Copies can be made for archival or distribution purposes
+.IP \[bu]
+.ps +2
+Modifications are not permitted
+.IP \[bu]
+.ps +2
+Reverse engineering and decompilation not allowed
+.IP \[bu]
+.ps +2
+use as part of another package is not allowed without permission
+
+.I "Public Domain"
+
+
+.IP \[bu]
+.ps +2
+copyright has been relinquished
+.IP \[bu]
+.ps +2
+copies can be maded
+.IP \[bu]
+.ps +2
+Modifications allowed
+.IP \[bu]
+.ps +2
+decompilation allowed
+.IP \[bu]
+.ps +2
+Developing new works is allowed
+
+
+
+
+
+

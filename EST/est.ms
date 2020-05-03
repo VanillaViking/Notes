@@ -1375,3 +1375,9 @@ Bicycle helmets: impact, corrosion, toughness, Tests: charpy test, Rockwell, cor
 
 
 Brake cable
+
+.I "Mar 26"
+
+electrical circuits can be used for power OR data
+
+
